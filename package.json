@@ -1,0 +1,27 @@
+{
+  "name": "fokify",
+  "version": "1.0.0",
+  "description": "Recipe application",
+  "browserslist": [
+    "last 1 Chrome versions"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "build parcel index.html"
+  },
+  "author": "seifedd Mejri",
+  "license": "ISC",
+  "devDependencies": {
+    "@parcel/transformer-image": "^2.0.0-rc.0",
+    "@parcel/transformer-sass": "^2.0.0-rc.0",
+    "parcel": "^2.0.0-rc.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "dependencies": {
+    "core-js": "^3.20.2",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.9"
+  }
+}
