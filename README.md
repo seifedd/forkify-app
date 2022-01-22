@@ -1,6 +1,7 @@
 # forkify-app
 ## App deployed to production 
 https://agitated-murdock-72.netlify.app
+## Description
 A project I built for fun and learning, using classes, module, await, async, and modules likes parcel. 
 To get started with this massive production application, I needed to used parcel which is a zero configuration build tool for the web. It combines a great out-of-the-box development experience with a scalable architecture that can take your project from just getting started to massive production application.
 I also used MVC pattern/ framework  commonly used for developing user interfaces that divide the related program logic into three interconnected elements. This is done to separate internal representations of information (business logic) from the user interface presented to the user.
