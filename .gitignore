@@ -24,3 +24,7 @@ Thumbs.db
 # Build directories
 dist/
 build/
+
+#parcel
+.parcel-cache/
+.cache/
